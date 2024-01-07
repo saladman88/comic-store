@@ -5,7 +5,7 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
-		<h2 class="h2">Up Comming Show</h2>
+		<h2 class="h2">Up Coming Show</h2>
 		<div class="card min-w-72">
 			<!-- <header class="card-header h3">From Locan To Bangkok 2 by PaPaPao</header> -->
 			<section class="p-4">
@@ -13,6 +13,46 @@
 				<p>From Local To Bangkok 2</p>
 				<p>by <span><a href="/papapao">PaPaPao</a></span></p>
 				<p>Date : 13/01/24</p>
+				<p>Time : 20:00</p>
+				<p>Place : Akatanyu Comedy Club</p>
+				<p>Ticket : 350 baht</p>
+			</section>
+			<footer class="card-footer">
+				<button type="button" class="btn variant-filled">
+					<span>
+						<Icon icon="ion:ticket" />
+					</span>
+					<span>Buy Ticket</span>
+				</button>
+			</footer>
+		</div>
+		<div class="card min-w-72">
+			<!-- <header class="card-header h3">From Locan To Bangkok 2 by PaPaPao</header> -->
+			<section class="p-4">
+				<img src="/img/kristPPR.jpg" alt="kristPPR">
+				<p>พูดไปเรื่อย</p>
+				<p>by <span><a href="/krist">Krist</a></span></p>
+				<p>Date : 19/01/24</p>
+				<p>Time : 20:00</p>
+				<p>Place : Akatanyu Comedy Club</p>
+				<p>Ticket : free baht</p>
+			</section>
+			<footer class="card-footer">
+				<button type="button" class="btn variant-filled">
+					<span>
+						<Icon icon="ion:ticket" />
+					</span>
+					<span>Buy Ticket</span>
+				</button>
+			</footer>
+		</div>
+		<div class="card min-w-72">
+			<!-- <header class="card-header h3">From Locan To Bangkok 2 by PaPaPao</header> -->
+			<section class="p-4">
+				<img src="/img/KCKT.jpg" alt="KCKT">
+				<p>แขกตี้</p>
+				<p>by <span><a href="/KCking">KC King</a></span></p>
+				<p>Date : 20/01/24</p>
 				<p>Time : 20:00</p>
 				<p>Place : Akatanyu Comedy Club</p>
 				<p>Ticket : 350 baht</p>
