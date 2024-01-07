@@ -1,9 +1,39 @@
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
+<script lang="ts">
+	import Icon from '@iconify/svelte';
+</script>
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
-		<h2 class="h2">Welcome to Skeleton.</h2>
-		<!-- Animated Logo -->
+		<h2 class="h2">Up Comming Show</h2>
+		<div class="card min-w-72">
+			<!-- <header class="card-header h3">From Locan To Bangkok 2 by PaPaPao</header> -->
+			<section class="p-4">
+				<img src="/img/papapaoFLTB.jpg" alt="PapapaoFLTB">
+				<p>From Local To Bangkok 2</p>
+				<p>by <span><a href="/papapao">PaPaPao</a></span></p>
+				<p>Date : 13/01/24</p>
+				<p>Time : 20:00</p>
+				<p>Place : Akatanyu Comedy Club</p>
+				<p>Ticket : 350 baht</p>
+			</section>
+			<footer class="card-footer">
+				<button type="button" class="btn variant-filled">
+					<span>
+						<Icon icon="ion:ticket" />
+					</span>
+					<span>Buy Ticket</span>
+				</button>
+			</footer>
+		</div>
+
+
+
+
+
+
+
+		<!-- <h2 class="h2">Welcome to Skeleton.</h2>
 		<figure>
 			<section class="img-bg" />
 			<svg
@@ -17,7 +47,7 @@
 				/>
 			</svg>
 		</figure>
-		<!-- / -->
+		
 		<div class="flex justify-center space-x-2">
 			<a
 				class="btn variant-filled"
@@ -32,7 +62,7 @@
 			<p>Try editing the following:</p>
 			<p><code class="code">/src/routes/+layout.svelte</code></p>
 			<p><code class="code">/src/routes/+page.svelte</code></p>
-		</div>
+		</div> -->
 	</div>
 </div>
 
